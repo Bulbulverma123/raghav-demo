@@ -2,4 +2,5 @@
 This is my first Git repository .
 <br>
 
-AUthor - shraddha khapra 
+AUthor - shraddha (Apna College )
+ 
